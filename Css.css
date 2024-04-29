@@ -1,5 +1,13 @@
 li {
-  color: deeppink;
-  font-size: large;
+    color    : deeppink;
+    font-size: large;
 }
 
+h1 {
+    text-decoration : underline;
+    font-size       : 30px;
+    font-family     : "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    text-align      : center;
+    background-color: cyan;
+    color           : black;
+}
